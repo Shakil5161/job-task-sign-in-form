@@ -5,7 +5,7 @@ Using:
 1. React.js
 2. MDBootstarp
 3. RegEx
-4. Hosted Netlify
+4. Deploy Netlify
 
 
 Features:

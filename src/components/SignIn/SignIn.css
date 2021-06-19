@@ -1,0 +1,27 @@
+/* sign in page CSS here */
+.sign-in-container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.dummy-bg{
+    background-color: #286EFA;
+    padding: 250px 0px;
+}
+
+.dummy-text{
+    width: 50%;
+    margin: 0 auto;
+}
+.account{
+    padding: 230px 0px 120px 120px;
+}
+.my-button{
+    width: 100%;
+}
+.error{
+    color: red !important;
+}
+.error-border{
+    border-color: red !important;
+}
